@@ -1,4 +1,4 @@
-![Data Center Conteiner](https://www.rittal.com/de_de/rimatrix-s/html/varianten/single6_single6_.jpg)
+![Data Center Conteiner](https://integrity.pe/wp-content/uploads/2019/10/dc-movil-integrity-03.jpg)
 
 # Hola Soy Enrique León, Ingeniero Electrónico especializado en Telecomunicaciones 👋
 ## *Alumno del Curso de Ingeniería de Agentes de Hardware y Software*
