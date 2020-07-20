@@ -1,6 +1,6 @@
 ![Data Center Conteiner](https://integrity.pe/wp-content/uploads/2019/10/dc-movil-integrity-03.jpg)
 
-# Hola Soy Enrique León, Ingeniero Electrónico especializado en Telecomunicaciones 👋
+# Hola Soy Enrique León, Ingeniero Electrónico especializado en Centro de Datos, Networking y Sistemas de Microondas 👋
 ## *Alumno del Curso de Ingeniería de Agentes de Hardware y Software*
 ### *CCNA R&S/CCNA WIRELESS/SCRUM MASTER/CANDIDATO A PMP*
 
