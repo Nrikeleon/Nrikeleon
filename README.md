@@ -1,4 +1,4 @@
-![](https://www.rittal.com/de_de/rimatrixs/img/pi_selektor2.png)
+![Data Center Conteiner](https://www.rittal.com/de_de/rimatrixs/img/pi_selektor2.png)
 
 # Hola Soy Enrique León, Ingeniero Electrónico especializado en Telecomunicaciones 👋
 ## *Alumno del Curso de Ingenieria de Agentes de Hardware y Software*
@@ -6,8 +6,8 @@
 
 
 
-##### 🔭 I’m currently working on ...
-##### 🌱 I’m currently learning ...
+##### 🔭 *I’m currently working on ...*
+##### 🌱 *I’m currently learning ...*
 
 
 <!--
