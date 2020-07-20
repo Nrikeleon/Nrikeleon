@@ -2,7 +2,7 @@
 
 # Hola Soy Enrique León, Ingeniero Electrónico especializado en Telecomunicaciones 👋
 ## *Alumno del Curso de Ingenieria de Agentes de Hardware y Software*
-### *CCNA R&S, CCNA_WIRELESS, SCRUM_MASTER,CANDIDATO A PMP*
+### *CCNA R&S/CCNA WIRELESS/SCRUM MASTER/CANDIDATO A PMP*
 
 
 
