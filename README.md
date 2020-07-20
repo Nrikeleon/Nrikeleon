@@ -1,4 +1,13 @@
-### Hi there 👋
+![](https://www.rittal.com/de_de/rimatrixs/img/pi_selektor2.png)
+
+# Hola Soy Enrique León, Ingeniero Electrónico especializado en Telecomunicaciones 👋
+###  CCNA R&S/CCNA WIRELESS/SCRUM MASTER/CANDIDATO A PMP
+
+
+
+##### 🔭 I’m currently working on ...
+#### #🌱 I’m currently learning ...
+
 
 <!--
 **Nrikeleon/Nrikeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
