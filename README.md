@@ -1,7 +1,7 @@
-![Data Center Conteiner](https://www.rittal.com/de_de/rimatrixs/img/pi_selektor2.png)
+![Data Center Conteiner](https://www.rittal.com/de_de/rimatrix-s/html/varianten/single6_single6_.jpg)
 
 # Hola Soy Enrique León, Ingeniero Electrónico especializado en Telecomunicaciones 👋
-## *Alumno del Curso de Ingenieria de Agentes de Hardware y Software*
+## *Alumno del Curso de Ingeniería de Agentes de Hardware y Software*
 ### *CCNA R&S/CCNA WIRELESS/SCRUM MASTER/CANDIDATO A PMP*
 
 
